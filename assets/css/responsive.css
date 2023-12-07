@@ -2602,11 +2602,12 @@
     margin: 10px 10px 10px 10px;
   }
   #target_video {
-	min-height: 340px;
+    min-height: 336px;
+    background: #fff;
   }
 
   .bannertext {
-	width: 100%;
+    width: 100%;
   }
 }
 
